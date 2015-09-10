@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+.banner {
+	border-radius: 10px;
+	background-color: #9BA2B6;
+	color: #B6504F;
+}
+
+.title {
+	font-size: 30pt;
+}
+
+.slogan {
+	
+	font-size: 10pt;
+}
